@@ -2,6 +2,9 @@
 
 Manage timezone settings via Puppet
 
+based on https://github.com/saz/puppet-timezone but with some patches:
+https://github.com/saz/puppet-timezone/pull/40
+
 ## Usage
 
 ### Set timezone to UTC

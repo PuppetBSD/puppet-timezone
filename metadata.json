@@ -35,14 +35,14 @@
       "version_requirement": "3.x"
     }
   ],
-  "name": "saz-timezone",
+  "name": "olevole-timezone",
   "version": "3.3.0",
-  "source": "git://github.com/saz/puppet-timezone",
-  "author": "saz",
+  "source": "git://github.com/olevole/puppet-timezone",
+  "author": "olevole",
   "license": "Apache License, Version 2.0",
   "summary": "UNKNOWN",
   "description": "Manage timezone settings via Puppet",
-  "project_page": "https://github.com/saz/puppet-timezone",
+  "project_page": "https://github.com/olevole/puppet-timezone",
   "dependencies": [
     {
       "name": "puppetlabs/stdlib",
